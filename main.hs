@@ -10,9 +10,9 @@ IDE
 
 Websites 
 - Google search
-
+- YouTube
+- Stack Overflow
 - Hoogle 
-    - https://hackage-content.haskell.org/package/base-4.22.0.0/docs/Prelude.html#v:splitAt
 
 Referred to 
 - Code note files from Canvas 
